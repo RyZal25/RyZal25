@@ -32,7 +32,7 @@ I am a Computer Science learner <img src="https://media.giphy.com/media/WUlplcMp
 
 :seedling: I am currently exploring the technical aspects of securing data, data forensic analysis, and ethical hacking.
 
-:zap: During my free time, I engage in activities such as participating in quizzes like CTF and staying updated with the latest security trends.
+:zap: I engage in activities such as participating in quizzes or competitions like CTF (Capture The Flag) and staying updated with the latest security trends.
 
 :mailbox: You can reach me via LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-ryzalll-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryzalll)
 
