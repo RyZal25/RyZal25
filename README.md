@@ -6,6 +6,9 @@
   <a href="(https://www.linkedin.com/ryzalll/](https://www.linkedin.com/in/ryzalll)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</div>
+
+<div id="badges" align="center">
   <a>
     <img src="https://komarev.com/ghpvc/?username=RyZal25&style=flat-square&color=blue" alt=""/>
   </a>
