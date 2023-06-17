@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/ryzalll/">
+  <a href="[https://www.linkedin.com/ryzalll/](https://www.linkedin.com/in/ryzalll)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -28,7 +28,7 @@ I am a Learner On Computer Science <img src="https://media.giphy.com/media/WUlpl
 
 - :zap: In my free time, I do some Quiz like CTF, update my knowledge on security data and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ryzalll-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/ryzalll/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ryzalll-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryzalll)
 
 ---
 
