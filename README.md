@@ -28,13 +28,13 @@
 ### :woman_technologist: About Me :
 I am a Learner On Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Siliwangi University.
 
-- :telescope: I’m a learner have some interest in Cyber Security.
+:telescope: I am a learner with a keen interest in Cyber Security.
 
-- :seedling: Exploring Technical Securing data, Data Forensic and Ethical Hacking.
+:seedling: I am currently exploring the technical aspects of securing data, data forensic analysis, and ethical hacking.
 
-- :zap: In my free time, I do some Quiz like CTF, update my knowledge on security data and read tech articles.
+:zap: During my free time, I engage in activities such as participating in quizzes like CTF (Capture The Flag), staying updated with the latest advancements in data security, and reading technology articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ryzalll-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryzalll)
+:mailbox: You can reach me via LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-ryzalll-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryzalll)
 
 ---
 
