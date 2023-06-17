@@ -26,7 +26,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Learner On Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Siliwangi University.
+I am a Computer Science learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Siliwangi University.
 
 :telescope: I am a learner with a keen interest in Cyber Security.
 
