@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="[https://www.linkedin.com/ryzalll/](https://www.linkedin.com/in/ryzalll)">
+  <a href="(https://www.linkedin.com/ryzalll/](https://www.linkedin.com/in/ryzalll)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
